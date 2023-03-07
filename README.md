@@ -1,3 +1,3 @@
 # Coding-Project-2
 
-Hurrican Tracker from previosu project but in java
+Hurrican Tracker from previous project but in java
